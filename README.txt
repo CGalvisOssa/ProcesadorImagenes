@@ -23,7 +23,7 @@ INSTALACIÓN
 1. Clonar o descargar el repositorio:
    
    git clone <https://github.com/CGalvisOssa/ProcesadorImagenes>
-   cd ProyectoProcesadorImagenes
+   cd ProcesadorImagenes
 
 2. Instalar dependencias:
    
