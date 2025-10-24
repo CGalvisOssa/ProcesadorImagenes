@@ -22,7 +22,7 @@ INSTALACIÓN
 
 1. Clonar o descargar el repositorio:
    
-   git clone <C:\Users\cris4\OneDrive\Documents\Clases\CompuGrafica\proyecto2\ProyectoProcesadorImagenes>
+   git clone <https://github.com/CGalvisOssa/ProcesadorImagenes>
    cd ProyectoProcesadorImagenes
 
 2. Instalar dependencias:
